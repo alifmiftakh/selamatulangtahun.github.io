@@ -167,15 +167,15 @@ i {
 .avatar {
     animation: float 6s ease-in-out infinite;
     border: 3px white solid;
-    height: 75px;
+    height: 250px;
     margin: auto;
     overflow: hidden;
     position: absolute;
-    right: 300px;
+    right: 250px;
     top: 215px;
     transform: translatey(0px);
-    width: 75px;
-    background-image: url(../assets/img/anggi.jpg);
+    width: 250px;
+    background-image: url(../assets/img/shania1.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -316,7 +316,7 @@ i {
         top: 150px;
         transform: translatey(0px);
         width: 50px;
-        background-image: url(../assets/img/anggi1.png);
+        background-image: url(../assets/img/shania.png);
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
